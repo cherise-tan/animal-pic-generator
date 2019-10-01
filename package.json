@@ -1,0 +1,22 @@
+{
+  "name": "animal-pic-generator",
+  "version": "1.0.0",
+  "description": "Random animal picture generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherise-tan/animal-pic-generator.git"
+  },
+  "author": "Cherise Tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherise-tan/animal-pic-generator/issues"
+  },
+  "homepage": "https://github.com/cherise-tan/animal-pic-generator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
